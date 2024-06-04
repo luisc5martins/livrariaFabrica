@@ -7,7 +7,7 @@ from livraria.serializers import (
     CategoriaSerializer,
     EditoraSerializer,
     LivroSerializer,
-    LivroDetailSerializer,
+    LivroDetailSerializer, 
     LivroListSerializer,
 )
 
